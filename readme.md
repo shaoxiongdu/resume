@@ -1,16 +1,18 @@
 ## 个人信息
-###  **杜少雄/男/1999/山西太原/2022应届生**
 
+###  **杜少雄/男/22岁/山西太原/2022应届生**
 - **手机:** 15603430511
 - **邮箱:** shaoxiongdu.dev@gmail.com
 - **个人博客:** [www.shaoxiongdu.cn](www.shaoxiongdu.cn)
 - **Github:** [www.github.com/ShaoxiongDu](https://github.com/ShaoxiongDu)
+- **CSDN:** [https://blog.csdn.net/weixin_44028058](https://blog.csdn.net/weixin_44028058)
 
 ## 求职意向
 - **期望职位:** Java后端开发/实习
 - **期望城市:** 北京/武汉/太原
 
 ## 教育经历
+
 | 学校         | 学历     | 专业          | 时间 |
 | ------------ | -------------- | ----------------- | ------------ |
 | 太原科技大学 | 本科 | 计算机科学与技术 | 2018.09 - 2022.06 |
@@ -22,10 +24,9 @@
 - **数据库:** 熟练掌握主流的关系型数据库MySQL
 - **框架:** 熟练掌握 Spring、Spring MVC、 SpringBoot、MyBatis、SpringBootJPA、Spring Security 等主流开发框架,了解MVC架构开发模型
 - **Linux:** 熟练使用 Linux，有 Linux 下开发的实际经验
-- **项目管理:**
-  - 熟练掌握Gradle，Maven等项目构建工具
-  - 熟悉应用服务器软件Tomcat等容器配置和部署
-  - 熟悉SpringBoot项目的打包部署．
+- **项目管理:** 熟练掌握Gradle，Maven等项目构建工具
+- **web开发:** 熟悉应用服务器软件Tomcat等容器配置和部署
+- **项目部署:** 熟悉SpringBoot项目的打包部署．
 - **版本控制:** 熟练使用SVN,GitHub，Gitee等团队协作工具，有良好的团队协作意识．
 
 ## 项目经历
@@ -49,25 +50,14 @@
 - **开源地址:**  [https://github.com/shaoxiongdu/blog](https://github.com/shaoxiongdu/blog)
 
 ### 2. ComputerNetworks
-- **项目介绍:**  图解《计算机网络》学习笔记
+- **项目介绍:**  图解《计算机网络》
 - **开源地址:**  [https://github.com/shaoxiongdu/ComputerNetworks](https://github.com/shaoxiongdu/ComputerNetworks)
 
 ### 3. DataStructureForJava
-- **项目介绍:**  用Java实现的数据结构与算法
+- **项目介绍:**  Java实现的数据结构与算法
 - **开源地址:**  [https://github.com/shaoxiongdu/DataStructureForJava](https://github.com/shaoxiongdu/DataStructureForJava)
 
-## 原创技术文章
-
-### 计算机网络_网络层详解
-[http://www.shaoxiongdu.cn/blog/27](http://www.shaoxiongdu.cn/blog/27)
-### 计算机网络_体系结构
-[http://www.shaoxiongdu.cn/blog/26](http://www.shaoxiongdu.cn/blog/26)
-
-### CSDN个人主页地址
-
-[https://blog.csdn.net/weixin_44028058](https://blog.csdn.net/weixin_44028058)
-
-## 个人评价 
+## 个人评价
 
 - 乐观开朗，适应能力强，能接受加班和出差
 - 有良好的设计和编码品味，并且热爱写代码
@@ -76,7 +66,4 @@
 - 热爱编程，在工作中，有着强烈的责任心，开拓创新意识强，能保持不断进取的精神，有高度执行力
 
 ## 感谢阅读
-
 感谢您花时间阅读我的简历，期待能与您共事！
-
-<div style="page-break-after: always;"></div>
