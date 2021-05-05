@@ -1,12 +1,13 @@
 ## 个人信息
-###  **杜少雄/男/1999-09-11/山西太原**
+###  **杜少雄/男/1999/山西太原/2022应届生**
+
 - **手机:** 15603430511
 - **邮箱:** shaoxiongdu.dev@gmail.com
 - **个人博客:** [www.shaoxiongdu.cn](www.shaoxiongdu.cn)
 - **Github:** [www.github.com/ShaoxiongDu](https://github.com/ShaoxiongDu)
 
 ## 求职意向
-- **期望职位:** Java后端开发
+- **期望职位:** Java后端开发/实习
 - **期望城市:** 北京/武汉/太原
 
 ## 教育经历
@@ -61,6 +62,10 @@
 [http://www.shaoxiongdu.cn/blog/27](http://www.shaoxiongdu.cn/blog/27)
 ### 计算机网络_体系结构
 [http://www.shaoxiongdu.cn/blog/26](http://www.shaoxiongdu.cn/blog/26)
+
+### CSDN个人主页地址
+
+[https://blog.csdn.net/weixin_44028058](https://blog.csdn.net/weixin_44028058)
 
 ## 个人评价 
 
