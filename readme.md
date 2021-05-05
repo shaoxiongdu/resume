@@ -63,7 +63,7 @@
 ### 计算机网络_体系结构
 [http://www.shaoxiongdu.cn/blog/26](http://www.shaoxiongdu.cn/blog/26)
 
-## 个人评价
+## 个人评价 
 
 - 乐观开朗，适应能力强，能接受加班和出差
 - 有良好的设计和编码品味，并且热爱写代码
