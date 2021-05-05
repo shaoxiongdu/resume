@@ -1,5 +1,4 @@
 ## 个人信息
-
 ###  **杜少雄/男/1999-09-11/山西太原**
 - **手机:** 15603430511
 - **邮箱:** shaoxiongdu.dev@gmail.com
@@ -7,53 +6,35 @@
 - **Github:** [www.github.com/ShaoxiongDu](https://github.com/ShaoxiongDu)
 
 ## 求职意向
-
 - **期望职位:** Java后端开发
 - **期望城市:** 北京/武汉/太原
 
 ## 教育经历
-
 | 学校         | 学历     | 专业          | 时间 |
 | ------------ | -------------- | ----------------- | ------------ |
 | 太原科技大学 | 本科 | 计算机科学与技术 | 2018.09 - 2022.06 |
 
 
 ## 技能清单
-
 - **计算机基础:** 熟练掌握《计算机网络》、《数据结构和算法》、《数据库原理》、了解《计算机组成原理》
-
 - **JavaSE:** 熟练掌握Java语法、多线程、集合、反射、JVM等基础知识
-
 - **JVM:** 对JVM原理有初步的理解，包括内存模型、垃圾回收机制，守护线程等
-
-- **数据库:** 熟练掌握主流的关系型数据库MySQL 
-
+- **数据库:** 熟练掌握主流的关系型数据库MySQL
 - **框架:** 熟练掌握 Spring、Spring MVC、 SpringBoot、MyBatis、SpringBootJPA、Spring Security 等主流开发框架,了解MVC架构开发模型
-
 - **Linux:** 熟练使用 Linux，有 Linux 下开发的实际经验
-
 - **项目管理:**
-
   - 熟练掌握Gradle，Maven等项目构建工具
-
   - 熟悉应用服务器软件Tomcat等容器配置和部署
-
   - 熟悉SpringBoot项目的打包部署．
-
 - **版本控制：**熟练使用SVN,GitHub，Gitee等团队协作工具，有良好的团队协作意识．
 
 ## 项目经历
 
 ### 个人博客
-
 - **项目主页:**  [www.shaoxiongdu.cn](http://www.shaoxiongdu.cn)
-
 - **时间:**  2021-01~2021-06
-
 - **项目简介:**  一个基于Spring Boot的简洁优雅的个人博客系统
-
-- **设计技术:**  SpringBoot、SpringDataJPA等后端框架，MySQL数据库，Themeleaf模板引擎, semanticUI等前端框架。
-
+- **涉及技术:**  SpringBoot、SpringDataJPA等后端框架，MySQL数据库，Themeleaf模板引擎, semanticUI等前端框架。
 - **工作内容:** 
   1. 前期负责需求分析,产出数据模型,用例图,系统结构图等准备工作
   2. 业务后端Java开发
@@ -78,11 +59,8 @@
 ## 原创技术文章
 
 ### 计算机网络_网络层详解
-
 [http://www.shaoxiongdu.cn/blog/27](http://www.shaoxiongdu.cn/blog/27)
-
 ### 计算机网络_体系结构
-
 [http://www.shaoxiongdu.cn/blog/26](http://www.shaoxiongdu.cn/blog/26)
 
 ## 个人评价
