@@ -35,7 +35,7 @@
 - **项目主页:**  [www.shaoxiongdu.cn](http://www.shaoxiongdu.cn)
 - **时间:**  2021-01~2021-06
 - **项目简介:**  一个基于Spring Boot的简洁优雅的个人博客系统
-- **涉及技术:**  SpringBoot、SpringDataJPA等后端框架，MySQL数据库，Themeleaf模板引擎, semanticUI等前端框架。
+- **涉及技术:**  SpringBoot、SpringDataJPA等后端框架，MySQL数据库，Thymeleaf模板引擎, semanticUI等前端框架。
 - **工作内容:** 
   1. 前期负责需求分析,产出数据模型,用例图,系统结构图等准备工作
   2. 业务后端Java开发
@@ -47,11 +47,11 @@
 ### 1. 个人博客
 - **项目主页:**  [www.shaoxiongdu.cn](http://www.shaoxiongdu.cn)
 - **项目介绍:**  一个基于SpringBoot简约优雅的个人博客
-- **开源地址:**  [https://github.com/shaoxiongdu/blog](https://github.com/shaoxiongdu/blog)
+  - **开源地址:**  [www.github.com/shaoxiongdu/blog](https://github.com/shaoxiongdu/blog)
 
 ### 2. ComputerNetworks
 - **项目介绍:**  图解《计算机网络》
-- **开源地址:**  [https://github.com/shaoxiongdu/ComputerNetworks](https://github.com/shaoxiongdu/ComputerNetworks)
+- **开源地址:**  [www.github.com/shaoxiongdu/ComputerNetworks](https://github.com/shaoxiongdu/ComputerNetworks)
 
 ### 3. DataStructureForJava
 - **项目介绍:**  Java实现的数据结构与算法
