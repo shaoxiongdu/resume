@@ -1,11 +1,12 @@
 ## 个人信息
 
 ###  **杜少雄/男/22岁/山西太原/2022应届生**
+
 - **手机:** 15603430511
 - **邮箱:** shaoxiongdu.dev@gmail.com
 - **个人博客:** [www.shaoxiongdu.cn](www.shaoxiongdu.cn)
 - **Github:** [www.github.com/ShaoxiongDu](https://github.com/ShaoxiongDu)
-- **CSDN:** [https://blog.csdn.net/weixin_44028058](https://blog.csdn.net/weixin_44028058)
+- **CSDN:** [www.blog.csdn.net/weixin_44028058](https://blog.csdn.net/weixin_44028058)
 
 ## 求职意向
 - **期望职位:** Java后端开发/实习
