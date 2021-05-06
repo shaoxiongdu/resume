@@ -47,11 +47,11 @@
 ### 1. 个人博客
 - **项目主页:**  [www.shaoxiongdu.cn](http://www.shaoxiongdu.cn)
 - **项目介绍:**  一个基于SpringBoot简约优雅的个人博客
-- **开源地址:**  [https://github.com/shaoxiongdu/blog](https://github.com/shaoxiongdu/blog)
+  - **开源地址:**  [www.github.com/shaoxiongdu/blog](https://github.com/shaoxiongdu/blog)
 
 ### 2. ComputerNetworks
 - **项目介绍:**  图解《计算机网络》
-- **开源地址:**  [https://github.com/shaoxiongdu/ComputerNetworks](https://github.com/shaoxiongdu/ComputerNetworks)
+- **开源地址:**  [www.github.com/shaoxiongdu/ComputerNetworks](https://github.com/shaoxiongdu/ComputerNetworks)
 
 ### 3. DataStructureForJava
 - **项目介绍:**  Java实现的数据结构与算法
