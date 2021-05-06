@@ -25,7 +25,7 @@
 - **框架:** 熟练掌握 Spring、Spring MVC、 SpringBoot、MyBatis、SpringBootJPA、Spring Security 等主流开发框架,了解MVC架构开发模型
 - **Linux:** 熟练使用 Linux，有 Linux 下开发的实际经验
 - **项目管理:** 熟练掌握Gradle，Maven等项目构建工具
-- **web开发:** 熟悉应用服务器软件Tomcat等容器配置和部署
+- **JavaWeb开发:** 熟悉应用服务器软件Tomcat等容器配置和部署
 - **项目部署:** 熟悉SpringBoot项目的打包部署．
 - **版本控制:** 熟练使用SVN,GitHub，Gitee等团队协作工具，有良好的团队协作意识．
 
