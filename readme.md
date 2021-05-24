@@ -52,7 +52,7 @@ GitHub: [www.github.com/shaoxiongdu](https://github.com/shaoxiongdu)
 	2. 业务后端Java开发。
 	3. 前端数据展示, 用户交互页面逻辑设计等前端工作。
 	4. 项目配置,测试,打包,部署,域名解析,网站备案等运维工作。
-        5. 项目后期维护工作。
+   5. 项目后期维护工作。
 
 ## 开源项目
 
