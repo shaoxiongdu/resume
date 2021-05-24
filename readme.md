@@ -37,8 +37,8 @@ GitHub: [www.github.com/shaoxiongdu](https://github.com/shaoxiongdu)
 - Linux : 熟练使用 Linux，有 Linux下开发部署项目的实际经验。
 - 项目管理: 熟练掌握Gradle、Maven等项目构建工具。
 - JavaWeb:  熟悉J2EE规范，熟悉HTTP协议。熟悉MVC架构模式，并有在MVC模式下进行Web开发的经验。
-- 项目部署: 熟悉SpringBoot项目、SpringMVC、JavaWar等的打包部署．
-- 版本控制: 熟练使用SVN , GitHub，Gitee等团队协作工具，有良好的团队协作意识．
+- 项目部署: 熟悉SpringBoot项目、SpringMVC、JavaWar等的打包部署。
+- 版本控制: 熟练使用SVN , GitHub，Gitee等团队协作工具，有良好的团队协作意识。
 
 ## 项目经历
 
