@@ -30,7 +30,7 @@ GitHub: [www.github.com/shaoxiongdu](https://github.com/shaoxiongdu)
 
 - 计算机理论: 熟练掌握 [计算机网络]、[数据结构和算法]、[数据库原理]、[计算机组成原理] 等基础理论知识。
 - JavaSE : 熟练掌握Java语法、多线程、集合、反射等。
-- JVM: 对JVM原理有初步的理解，包括内存模型、垃圾回收机制，守护线程等，有过JVM调优经验。
+- JVM: 对JVM原理有初步的理解，包括内存模型、垃圾回收机制，守护线程等，有过JVM调优经验。 
 - 数据库: 熟悉Oracle、MYSQL等数据库，熟练编写SQL脚本；
 - 框架: 熟练掌握Spring、Spring MVC、 MyBatis、SpringBoot、SpringBootJPA、SpringSecurity 等主流开发框架。
 - 前端：熟悉HTML、CSS、JavaScript、Query、AJAX等前端语言。熟悉Vue前端开发框架，有过前后端分离的项目经验(SpringBoot + Vue)。熟悉SemanticUI，ElementUI，Bootstrop等UI框架。
