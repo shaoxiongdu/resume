@@ -22,7 +22,7 @@
 
 GitHub: [www.github.com/shaoxiongdu](https://github.com/shaoxiongdu)
 
-邮箱：[shaoxiongdu.dev@gmail.com](mailto:shaoxiongdu.dev@gmail.com)
+邮箱：[email@shaoxiongdu.cn](mailto:email@shaoxiongdu.cn)
 
 :::
 
@@ -33,11 +33,11 @@ GitHub: [www.github.com/shaoxiongdu](https://github.com/shaoxiongdu)
 - JVM: 对JVM原理有初步的理解，包括内存模型、垃圾回收机制，守护线程等，有过JVM调优经验。
 - 数据库: 熟悉Oracle、MYSQL等数据库，熟练编写SQL脚本；
 - 框架: 熟练掌握Spring、Spring MVC、 MyBatis、SpringBoot、SpringBootJPA、SpringSecurity 等主流开发框架。
-- 有扎实的编程能力和代码品位，良好的数据结构和算法基础。熟悉面向对象编程。
+- 前端：熟悉HTML、CSS、JavaScript、Query、AJAX等前端语言。熟悉Vue前端开发框架，有过前后端分离的项目经验(SpringBoot + Vue)。熟悉SemanticUI，ElementUI，Bootstrop等UI框架。
+- 编码习惯：有扎实的编程能力和代码品位，良好的数据结构和算法基础。熟悉面向对象编程。
 - Linux : 熟练使用 Linux，有 Linux下开发部署项目的实际经验。
 - 项目管理: 熟练掌握Gradle、Maven等项目构建工具。
-- JavaWeb:  熟悉J2EE规范，熟悉HTTP协议。熟悉MVC架构模式，并有在MVC模式下进行Web开发的经验。
-- 项目部署: 熟悉SpringBoot项目、SpringMVC、JavaWar等的打包部署。
+- JavaWeb:  熟悉MVC架构模式，并有在MVC模式下进行Web开发的经验。
 - 版本控制: 熟练使用SVN , GitHub，Gitee等团队协作工具，有良好的团队协作意识。
 
 ## 项目经历
